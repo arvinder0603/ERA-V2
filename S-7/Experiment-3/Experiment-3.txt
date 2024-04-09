@@ -1,0 +1,12 @@
+                        Experiment-3
+				
+			LR scheduler, Image Augmentation 
+			
+			Model Parameter-> 7,596
+			Train Accuracy -> 98.77 %
+			Test Accuracy  -> 99.27% %
+                       
+                        Observation -> Model is  doing fine, its underfitting, could do better.
+
+			
+			Accuracy is measured for 15 epochs only.

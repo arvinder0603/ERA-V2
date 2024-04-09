@@ -1,0 +1,11 @@
+                        Experiment-2
+				
+			Regularization, Increasing capacity  and Gloabal Average Pooling
+			
+			Model Parameter->  7,914
+			Train Accuracy -> 99.19 %
+			Test Accuracy  -> 98.80 %
+                       
+                        Observation -> Model is overfitting and accuracy went down.
+			
+			Accuracy is measured for 15 epochs only.

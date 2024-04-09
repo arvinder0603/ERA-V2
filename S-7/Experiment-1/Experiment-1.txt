@@ -1,0 +1,9 @@
+                         Experiment-1
+			
+			Basic Skeleton, lighter model and Batch Normalization
+			
+			Model Parameter -> 7,654
+			Train Accuracy -> 99.72
+			Test Accuracy  -> 99.27
+                       
+                        Observation -> Model is doing fine , there is a bit Overfitting , Could do better.

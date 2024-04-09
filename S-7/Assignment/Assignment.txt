@@ -1,0 +1,9 @@
+                        Assignment
+
+			
+			
+			Model Parameter -> 8,290
+			Train Accuracy -> 98.70%
+			Test Accuracy  -> 99.30%
+                       
+                        Observation -> Model is doing fine , underfitting, Could do better.
